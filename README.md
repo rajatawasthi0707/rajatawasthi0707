@@ -7,6 +7,8 @@ Hey there! I'm Rajat Awasthi, a tech enthusiast with a journey that's been nothi
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajatawasthi0707)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatawasthi0707)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rajatawasthi0707)
 <!--
 **rajatawasthi0707/rajatawasthi0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
